@@ -1,0 +1,31 @@
+.logo
+{
+    @apply w-[5rem] h-[5rem] mr-[-11rem] mt-[2.3rem];
+    
+}
+
+.Nav
+{
+    @apply text-black max-w-[1240px] h-24 flex justify-between mx-auto items-center px-4 ;
+
+}
+
+.Name{
+    @apply font-bold text-3xl ;
+}
+
+.Nav_li{
+    @apply p-4 font-bold
+}
+
+.download{
+    @apply hidden md:block bg-black text-white py-[0.7rem] px-[2rem] rounded-sm ;
+}
+
+.Nav_resp{
+    @apply text-white fixed top-0 left-0 w-[60%] h-full border-r border-r-gray-800 bg-[#000300] p-[1rem] m-[0rem] ease-in-out duration-500;
+}
+
+.resp_li{
+    @apply py-4 uppercase border-b border-b-gray-600 
+}

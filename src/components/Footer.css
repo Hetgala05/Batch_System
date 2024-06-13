@@ -1,0 +1,23 @@
+.footer{
+    @apply max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 ;
+}
+
+.f_li{
+    @apply ml-[-12rem] lg:col-span-2 flex justify-evenly mt-6
+}
+
+.f_titles{
+    @apply font-semibold font-mono text-2xl
+}
+
+.list{
+    @apply py-2 text-sm font-semibold;
+}
+
+.sub{
+    @apply bg-black text-white ml-[-3rem] mt-[5.5rem] h-[3.5rem] w-[9rem] rounded-md
+}
+
+.copyright{
+    @apply w-[1240px] text-center border-t border-slate-300
+}

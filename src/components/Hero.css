@@ -1,0 +1,178 @@
+.hero{
+    @apply ml-[11.7rem] mt-[-3.5rem] w-[34rem] 
+}
+
+.headline{
+    @apply font-bold text-6xl block py-4
+}
+
+.text{
+    @apply font-sans block
+}
+
+
+.button{
+    @apply flex 
+}
+
+.start{
+    @apply bg-black text-white flex px-7 py-5 rounded-md mt-[1rem] 
+}
+
+.play{
+    @apply flex px-7 py-5 rounded-md mt-[1rem]
+
+}
+
+.start_img{
+    @apply p-2 
+}
+
+.play_img{
+    @apply ml-2 
+}
+
+.iphone_1{
+    @apply flex h-[40rem] ml-[41rem] mt-[-44rem]
+}
+
+.iphone_2{
+    @apply flex h-[40rem] ml-[48rem] mt-[-42rem]
+}
+
+.iphone_3{
+    @apply flex h-[40rem] ml-[56rem] mt-[-30rem]
+}
+
+.ol{
+    @apply flex h-[28rem] w-[29rem] ml-[57rem] mt-[-22rem]
+} 
+
+.ol_1{
+    @apply flex h-[28rem] w-[29rem] ml-[54rem] mt-[-26rem]
+}
+
+
+.ol_2{
+    @apply flex h-[28rem] w-[29rem] ml-[52rem] mt-[-26rem]
+} 
+
+.circles{
+    @apply ml-[-38rem] mt-[25rem]
+}
+
+.overl{
+    @apply flex h-[28rem] w-[29rem] ml-[57rem] mt-[-27rem]
+} 
+
+.overl_1{
+    @apply flex h-[28rem] w-[29rem] ml-[54rem] mt-[-26rem]
+}
+
+
+.overl_2{
+    @apply flex h-[28rem] w-[29rem] ml-[51rem] mt-[-26rem]
+} 
+
+.straight{
+    @apply ml-[57rem] mt-[-35rem]
+}
+
+.information{
+    @apply ml-[52rem] mt-[-40rem] p-4
+}
+
+.points{
+   @apply py-4 flex
+}
+
+.advantages{
+    @apply ml-[10rem] mt-[10rem] p-4
+}
+
+.circles_r{
+    @apply  ml-[-10rem] mt-[10rem]
+}
+
+.banner{
+    @apply ml-[65rem] mt-[-29rem]
+}
+
+.cred_card{
+    @apply ml-[61rem] mt-[-34rem]
+}
+
+.custom{
+    @apply ml-[52rem] mt-[-10rem] p-4   
+}
+
+
+.circles_x{
+    @apply ml-[-38rem] mt-[29rem]
+}
+
+.testimonial{
+    @apply mt-[14rem]
+}
+
+.test{
+    @apply w-[28rem] h-[9rem] text-center mx-auto 
+}
+
+.test_txt{
+    @apply w-[22.2rem] h-[9rem] text-left ml-[50rem] mt-[-35rem] mb-[5rem]
+}
+
+.test_txt h1{
+    @apply text-2xl font-extrabold my-4
+}
+
+.test_txt p{
+    @apply font-thin font-sans my-4
+}
+
+.pics{
+    @apply flex h-16
+}
+
+.pics img{
+    @apply py-4 px-1
+}
+
+.dull{
+    @apply opacity-70
+}
+
+.test_txt h3{
+    @apply font-bold font-sans
+}
+
+.FAQ{
+    @apply w-[68rem] h-[47rem] mx-auto grid grid-cols-2
+}
+
+.tag{
+    @apply w-[30rem] mb-8
+}
+
+.left, .right{
+    @apply mt-[-10rem]
+}
+
+.FAQ h2{
+    @apply font-bold font-sans text-2xl
+}
+
+.FAQ p{
+    @apply font-thin font-sans
+}
+
+
+
+.orange{
+    @apply bg-[#FF5555] text-white py-8 px-4 rounded-md
+}
+
+.white{
+    @apply p-8 rounded-md
+}
